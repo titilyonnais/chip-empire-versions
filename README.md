@@ -1,8 +1,8 @@
-# Sable et Lumière
+# Chip Empire
 
-*Un empire de semi-conducteurs.*
+*Du garage au géant des puces.*
 
-Sable et Lumière est un jeu de gestion pour Windows, en solo. Vous fondez une petite entreprise de puces graphiques dans un garage de Palo Alto, en 2010, et vous la faites grandir : recruter des ingénieurs, concevoir des puces, les faire graver, vendre des cartes, payer les charges, affronter la concurrence et les imprévus du marché. Le jeu se veut le plus réaliste possible.
+Chip Empire est un jeu de gestion pour Windows, en solo. Vous fondez une petite entreprise de puces graphiques dans un garage de Palo Alto, en 2010, et vous la faites grandir : recruter des ingénieurs, concevoir des puces, les faire graver, vendre des cartes, payer les charges, affronter la concurrence et les imprévus du marché. Le jeu se veut le plus réaliste possible.
 
 Il est gratuit. Cette page ne contient que les versions à installer.
 
@@ -19,6 +19,8 @@ Il est gratuit. Cette page ne contient que les versions à installer.
 
 Si une ancienne version du jeu est déjà installée, installez simplement la nouvelle par-dessus : vos parties sont gardées.
 
+Chip Empire s'appelait avant « Sable et Lumière ». Si vous l'aviez déjà, la 0.11.0 reprend vos parties et vos réglages, déplace le dossier `Documents\Sable et Lumière` vers `Documents\Chip Empire` et laisse à côté une copie de sécurité de l'ancien dossier.
+
 ## Les mises à jour
 
 Vous n'avez à installer le jeu à la main qu'une seule fois. Ensuite, à chaque démarrage, le lanceur cherche s'il existe une version plus récente :
@@ -30,10 +32,10 @@ Vous n'avez à installer le jeu à la main qu'une seule fois. Ensuite, à chaque
 
 ## Vos parties
 
-Les sauvegardes sont dans le dossier `Documents\Sable et Lumière\Sauvegardes`. Le lien « Dossier des sauvegardes » du lanceur l'ouvre directement.
+Les sauvegardes sont dans le dossier `Documents\Chip Empire\Sauvegardes`. Le lien « Dossier des sauvegardes » du lanceur l'ouvre directement.
 
-Avant chaque mise à jour, le lanceur en fait une copie complète dans `Documents\Sable et Lumière\Sauvegardes\copies\`, dans un dossier daté, par exemple `avant-0.5.0-2026-11-02-1430`. Les dix dernières copies sont gardées. Une partie commencée dans une ancienne version se charge dans la nouvelle.
+Avant chaque mise à jour, le lanceur en fait une copie complète dans `Documents\Chip Empire\Sauvegardes\copies\`, dans un dossier daté, par exemple `avant-0.5.0-2026-11-02-1430`. Les dix dernières copies sont gardées. Une partie commencée dans une ancienne version se charge dans la nouvelle.
 
 ## Droits
 
-Sable et Lumière, tous droits réservés. Le jeu est distribué gratuitement, mais il ne peut être ni modifié ni redistribué sans autorisation. Les noms d'entreprises du jeu sont des parodies, sans lien avec les vraies marques.
+Chip Empire, tous droits réservés. Le jeu est distribué gratuitement, mais il ne peut être ni modifié ni redistribué sans autorisation. Les noms d'entreprises du jeu sont des parodies, sans lien avec les vraies marques.
